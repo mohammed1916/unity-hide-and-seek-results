@@ -1,0 +1,2181 @@
+{
+    "name": "root",
+    "gauges": {
+        "HideAndSeekAgent.Policy.Entropy.mean": {
+            "value": 3.210547924041748,
+            "min": 3.210132360458374,
+            "max": 3.210564613342285,
+            "count": 5
+        },
+        "HideAndSeekAgent.Policy.Entropy.sum": {
+            "value": 346.7391662597656,
+            "min": 115.57875061035156,
+            "max": 11556.4765625,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs0.ndim.mean": {
+            "value": 2.0,
+            "min": 2.0,
+            "max": 2.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs0.ndim.sum": {
+            "value": 216.0,
+            "min": 72.0,
+            "max": 7200.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs0.shape0.mean": {
+            "value": 3.0,
+            "min": 3.0,
+            "max": 3.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs0.shape0.sum": {
+            "value": 324.0,
+            "min": 108.0,
+            "max": 10800.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.PosX.mean": {
+            "value": -4.288905382156372,
+            "min": -4.288905382156372,
+            "max": 2.5155406235158444,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.PosX.sum": {
+            "value": -12.866716146469116,
+            "min": -12.866716146469116,
+            "max": 251.55406235158443,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.PosY.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0028433990478516,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.PosY.sum": {
+            "value": 3.0,
+            "min": 1.0,
+            "max": 100.28433990478516,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.PosZ.mean": {
+            "value": -7.146046161651611,
+            "min": -7.146046161651611,
+            "max": 4.296061399281025,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.PosZ.sum": {
+            "value": -21.438138484954834,
+            "min": -21.438138484954834,
+            "max": 429.6061399281025,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.Rot.mean": {
+            "value": -2.4311881065368652,
+            "min": -2.4311881065368652,
+            "max": -0.554764361642301,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.Rot.sum": {
+            "value": -7.293564319610596,
+            "min": -55.47643616423011,
+            "max": -2.1315524578094482,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.VelX.mean": {
+            "value": -9.769215901692709,
+            "min": -9.769215901692709,
+            "max": 11.988786697387695,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.VelX.sum": {
+            "value": -29.307647705078125,
+            "min": -29.307647705078125,
+            "max": 11.988786697387695,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.VelY.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.03446250423789024,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.VelY.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 3.4462504237890244,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.VelZ.mean": {
+            "value": -2.982813835144043,
+            "min": -9.433236122131348,
+            "max": 1.1825084234774113,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.VelZ.sum": {
+            "value": -8.948441505432129,
+            "min": -9.433236122131348,
+            "max": 118.25084234774113,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.WasCaptured.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.WasCaptured.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.len.mean": {
+            "value": 8.0,
+            "min": 8.0,
+            "max": 8.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-0.Teammate0.len.sum": {
+            "value": 24.0,
+            "min": 8.0,
+            "max": 800.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs1.ndim.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs1.ndim.sum": {
+            "value": 108.0,
+            "min": 36.0,
+            "max": 3600.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs1.shape0.mean": {
+            "value": 210.0,
+            "min": 210.0,
+            "max": 210.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs1.shape0.sum": {
+            "value": 22680.0,
+            "min": 7560.0,
+            "max": 756000.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-0.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-0.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 15.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs2.ndim.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs2.ndim.sum": {
+            "value": 108.0,
+            "min": 36.0,
+            "max": 3600.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs2.shape0.mean": {
+            "value": 210.0,
+            "min": 210.0,
+            "max": 210.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs2.shape0.sum": {
+            "value": 22680.0,
+            "min": 7560.0,
+            "max": 756000.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-0.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-0.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs3.ndim.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs3.ndim.sum": {
+            "value": 108.0,
+            "min": 36.0,
+            "max": 3600.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs3.shape0.mean": {
+            "value": 9.0,
+            "min": 9.0,
+            "max": 9.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Obs3.shape0.sum": {
+            "value": 972.0,
+            "min": 324.0,
+            "max": 32400.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-0.Obs3.elem0.mean": {
+            "value": -0.5040416220823923,
+            "min": -0.9946488962322474,
+            "max": 0.24337884783744812,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-0.Obs3.elem0.sum": {
+            "value": -1.5121248662471771,
+            "min": -99.46488962322474,
+            "max": 0.24337884783744812,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.PosX.mean": {
+            "value": 3.970996697743734,
+            "min": -0.6524528139457106,
+            "max": 6.8988871574401855,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.PosX.sum": {
+            "value": 11.912990093231201,
+            "min": -65.24528139457107,
+            "max": 11.912990093231201,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.PosY.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.005022315979004,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.PosY.sum": {
+            "value": 3.0,
+            "min": 1.0,
+            "max": 100.50223159790039,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.PosZ.mean": {
+            "value": -4.103344758351644,
+            "min": -4.103344758351644,
+            "max": 5.731253955811262,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.PosZ.sum": {
+            "value": -12.310034275054932,
+            "min": -12.310034275054932,
+            "max": 573.1253955811262,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.Rot.mean": {
+            "value": -1.641273299853007,
+            "min": -1.846255898475647,
+            "max": 1.547695430200547,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.Rot.sum": {
+            "value": -4.923819899559021,
+            "min": -4.923819899559021,
+            "max": 154.7695430200547,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.VelX.mean": {
+            "value": 0.6914628346761068,
+            "min": -14.385971069335938,
+            "max": 0.6914628346761068,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.VelX.sum": {
+            "value": 2.0743885040283203,
+            "min": -82.53314155340195,
+            "max": 2.0743885040283203,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.VelY.mean": {
+            "value": -9.934107462565104e-09,
+            "min": -2.384185791015625e-06,
+            "max": 0.02039800405502319,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.VelY.sum": {
+            "value": -2.9802322387695312e-08,
+            "min": -2.384185791015625e-06,
+            "max": 2.0398004055023193,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.VelZ.mean": {
+            "value": -1.7661591370900471,
+            "min": -3.6802380084991455,
+            "max": 0.5690072271227836,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.VelZ.sum": {
+            "value": -5.298477411270142,
+            "min": -5.298477411270142,
+            "max": 56.900722712278366,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.WasCaptured.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.WasCaptured.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.len.mean": {
+            "value": 8.0,
+            "min": 8.0,
+            "max": 8.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-1.Teammate0.len.sum": {
+            "value": 24.0,
+            "min": 8.0,
+            "max": 800.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-1.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.04,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-1.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 4.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-1.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-1.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-1.Obs3.elem0.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0028433990478516,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-1.Obs3.elem0.sum": {
+            "value": 3.0,
+            "min": 1.0,
+            "max": 100.28433990478516,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.PosX.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.PosX.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.PosY.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.PosY.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.PosZ.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.PosZ.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.Rot.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.Rot.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.VelX.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.VelX.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.VelY.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.VelY.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.VelZ.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.VelZ.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.WasCaptured.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.WasCaptured.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.len.mean": {
+            "value": 8.0,
+            "min": 8.0,
+            "max": 8.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-2.Teammate0.len.sum": {
+            "value": 24.0,
+            "min": 8.0,
+            "max": 800.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-2.Obs1.elem0.mean": {
+            "value": 0.3333333333333333,
+            "min": 0.0,
+            "max": 1.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-2.Obs1.elem0.sum": {
+            "value": 1.0,
+            "min": 0.0,
+            "max": 1.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-2.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-2.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-2.Obs3.elem0.mean": {
+            "value": -4.103344758351644,
+            "min": -4.103344758351644,
+            "max": 5.731253955811262,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-2.Obs3.elem0.sum": {
+            "value": -12.310034275054932,
+            "min": -12.310034275054932,
+            "max": 573.1253955811262,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-6.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-6.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-6.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-6.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-6.Obs3.elem0.mean": {
+            "value": -0.7092873255411783,
+            "min": -0.7092873255411783,
+            "max": -0.18131056145764887,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-6.Obs3.elem0.sum": {
+            "value": -2.127861976623535,
+            "min": -18.131056145764887,
+            "max": -0.3655380308628082,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-7.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-7.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-7.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-7.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-7.Obs3.elem0.mean": {
+            "value": 5.358573188384374,
+            "min": -1.1052788426727056,
+            "max": 12.768444061279297,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-7.Obs3.elem0.sum": {
+            "value": 16.075719565153122,
+            "min": -110.52788426727057,
+            "max": 16.075719565153122,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-8.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-8.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-8.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-8.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-8.Obs3.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.05149689450860023,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-8.Obs3.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 5.1496894508600235,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-12.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-12.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-12.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-12.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-12.Obs3.elem0.mean": {
+            "value": -3.9031693935394287,
+            "min": -8.665728569030762,
+            "max": 12.871232986450195,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-12.Obs3.elem0.sum": {
+            "value": -11.709508180618286,
+            "min": -107.02691102027893,
+            "max": 12.871232986450195,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-13.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-13.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-13.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-13.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-13.Obs3.elem0.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-13.Obs3.elem0.sum": {
+            "value": 3.0,
+            "min": 1.0,
+            "max": 100.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-14.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.11,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-14.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 11.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-14.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-14.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-14.Obs3.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-14.Obs3.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-18.Obs1.elem0.mean": {
+            "value": 0.024634510433922212,
+            "min": 0.024634510433922212,
+            "max": 0.6657208912959323,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-18.Obs1.elem0.sum": {
+            "value": 0.07390353130176663,
+            "min": 0.042717643082141876,
+            "max": 66.57208912959322,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-18.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-18.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-19.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.07,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-19.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 7.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-19.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-19.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-20.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-20.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-20.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-20.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-24.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.39,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-24.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 39.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-24.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-24.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-25.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.14,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-25.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 14.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-25.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-25.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-26.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.06,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-26.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 6.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-26.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-26.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-30.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-30.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-30.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-30.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-31.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-31.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-31.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-31.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-32.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-32.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-32.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-32.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Environment.SeekersMeanX.mean": {
+            "value": 1.000791918569141,
+            "min": -4.455245825094518,
+            "max": 1.0014097611109416,
+            "count": 5
+        },
+        "HideAndSeekAgent.Environment.SeekersMeanX.sum": {
+            "value": 180.14254534244537,
+            "min": -26784.93790046824,
+            "max": 180.14254534244537,
+            "count": 5
+        },
+        "HideAndSeekAgent.Environment.SeekersMeanZ.mean": {
+            "value": -0.8978221429718866,
+            "min": -3.682974865674323,
+            "max": -0.8293373306592305,
+            "count": 5
+        },
+        "HideAndSeekAgent.Environment.SeekersMeanZ.sum": {
+            "value": -161.60798573493958,
+            "min": -22142.04489243403,
+            "max": -49.76023983955383,
+            "count": 5
+        },
+        "HideAndSeekAgent.Environment.HidersMeanX.mean": {
+            "value": -0.5267043335984151,
+            "min": -1.1009543081124624,
+            "max": -0.20776455732378013,
+            "count": 5
+        },
+        "HideAndSeekAgent.Environment.HidersMeanX.sum": {
+            "value": -94.80678004771471,
+            "min": -1249.080518630566,
+            "max": -43.36260566115379,
+            "count": 5
+        },
+        "HideAndSeekAgent.Environment.HidersMeanZ.mean": {
+            "value": -0.37204672892888385,
+            "min": -0.4528617714842161,
+            "max": 0.7721006721452576,
+            "count": 5
+        },
+        "HideAndSeekAgent.Environment.HidersMeanZ.sum": {
+            "value": -66.9684112071991,
+            "min": -66.9684112071991,
+            "max": 4641.869240937289,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.PosX.mean": {
+            "value": 11.255016326904297,
+            "min": 4.259695123322308,
+            "max": 11.255016326904297,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.PosX.sum": {
+            "value": 33.76504898071289,
+            "min": 11.255016326904297,
+            "max": 425.9695123322308,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.PosY.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.1952519226074219,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.PosY.sum": {
+            "value": 3.0,
+            "min": 1.0,
+            "max": 119.52519226074219,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.PosZ.mean": {
+            "value": -4.257114410400391,
+            "min": -4.257114410400391,
+            "max": 6.906186168193817,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.PosZ.sum": {
+            "value": -12.771343231201172,
+            "min": -12.771343231201172,
+            "max": 690.6186168193817,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.Rot.mean": {
+            "value": -2.468579053878784,
+            "min": -2.468579053878784,
+            "max": 0.4083599676052108,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.Rot.sum": {
+            "value": -7.4057371616363525,
+            "min": -7.4057371616363525,
+            "max": 40.835996760521084,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.VelX.mean": {
+            "value": 0.0,
+            "min": -0.1781199319660662,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.VelX.sum": {
+            "value": 0.0,
+            "min": -17.811993196606622,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.VelY.mean": {
+            "value": 0.0,
+            "min": -0.04310611054301262,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.VelY.sum": {
+            "value": 0.0,
+            "min": -4.310611054301262,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.VelZ.mean": {
+            "value": 1.8244888107050934e-21,
+            "min": 1.8244888107050934e-21,
+            "max": 0.7693875006586316,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.VelZ.sum": {
+            "value": 5.47346643211528e-21,
+            "min": 2.7323843584157887e-21,
+            "max": 76.93875006586316,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.WasCaptured.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.WasCaptured.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.len.mean": {
+            "value": 8.0,
+            "min": 8.0,
+            "max": 8.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-3.Teammate0.len.sum": {
+            "value": 24.0,
+            "min": 8.0,
+            "max": 800.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-3.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-3.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-3.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-3.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-3.Obs3.elem0.mean": {
+            "value": -9.74540901184082,
+            "min": -9.74540901184082,
+            "max": 3.6814419069886206,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-3.Obs3.elem0.sum": {
+            "value": -29.23622703552246,
+            "min": -29.23622703552246,
+            "max": 368.1441906988621,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.PosX.mean": {
+            "value": -8.571985244750977,
+            "min": -8.571985244750977,
+            "max": 4.003172868937254,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.PosX.sum": {
+            "value": -25.71595573425293,
+            "min": -25.71595573425293,
+            "max": 400.3172868937254,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.PosY.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 2.407136287689209,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.PosY.sum": {
+            "value": 3.0,
+            "min": 1.0,
+            "max": 240.7136287689209,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.PosZ.mean": {
+            "value": -6.786529541015625,
+            "min": -6.786529541015625,
+            "max": -2.5446074821427462,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.PosZ.sum": {
+            "value": -20.359588623046875,
+            "min": -254.46074821427464,
+            "max": -6.786529541015625,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.Rot.mean": {
+            "value": -2.4881839752197266,
+            "min": -2.4881839752197266,
+            "max": -0.8295036917924881,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.Rot.sum": {
+            "value": -7.46455192565918,
+            "min": -82.95036917924881,
+            "max": -2.4881839752197266,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.VelX.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.23479388981688218,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.VelX.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 23.479388981688217,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.VelY.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.04443815678358078,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.VelY.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 4.443815678358078,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.VelZ.mean": {
+            "value": 1.8245018700344255e-21,
+            "min": 1.8245018700344255e-21,
+            "max": 0.25413729262133145,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.VelZ.sum": {
+            "value": 5.473505610103277e-21,
+            "min": 2.7324053610485293e-21,
+            "max": 25.413729262133145,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.WasCaptured.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.WasCaptured.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.len.mean": {
+            "value": 8.0,
+            "min": 8.0,
+            "max": 8.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-4.Teammate0.len.sum": {
+            "value": 24.0,
+            "min": 8.0,
+            "max": 800.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-4.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-4.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-4.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.12,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-4.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 12.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-4.Obs3.elem0.mean": {
+            "value": 1.0,
+            "min": 1.0,
+            "max": 1.1952519226074219,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-4.Obs3.elem0.sum": {
+            "value": 3.0,
+            "min": 1.0,
+            "max": 119.52519226074219,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.PosX.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.PosX.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.PosY.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.PosY.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.PosZ.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.PosZ.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.Rot.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.Rot.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.VelX.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.VelX.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.VelY.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.VelY.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.VelZ.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.VelZ.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.WasCaptured.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.WasCaptured.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.len.mean": {
+            "value": 8.0,
+            "min": 8.0,
+            "max": 8.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Agent.agent_0-5.Teammate0.len.sum": {
+            "value": 24.0,
+            "min": 8.0,
+            "max": 800.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-5.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-5.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-5.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-5.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-5.Obs3.elem0.mean": {
+            "value": -6.786529541015625,
+            "min": -6.786529541015625,
+            "max": -2.5446074821427462,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-5.Obs3.elem0.sum": {
+            "value": -20.359588623046875,
+            "min": -254.46074821427464,
+            "max": -6.786529541015625,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-9.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-9.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-9.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-9.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-9.Obs3.elem0.mean": {
+            "value": 0.8441051244735718,
+            "min": -0.2789356586057693,
+            "max": 0.8441051244735718,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-9.Obs3.elem0.sum": {
+            "value": 2.5323153734207153,
+            "min": -27.893565860576928,
+            "max": 2.5323153734207153,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-10.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-10.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-10.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-10.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-10.Obs3.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.8005595657974715,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-10.Obs3.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 80.05595657974715,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-11.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-11.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-11.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-11.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-11.Obs3.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.009747911915183068,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-11.Obs3.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.9747911915183067,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-15.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-15.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-15.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-15.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-15.Obs3.elem0.mean": {
+            "value": 1.8245018700344255e-21,
+            "min": -0.7188126455247402,
+            "max": 2.7367737067101832e-21,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-15.Obs3.elem0.sum": {
+            "value": 5.473505610103277e-21,
+            "min": -71.88126455247402,
+            "max": 5.473505610103277e-21,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-16.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-16.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-16.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-16.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-16.Obs3.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-16.Obs3.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-17.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-17.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-17.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.46,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-17.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 46.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-17.Obs3.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-17.Obs3.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-21.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-21.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-21.Obs2.elem0.mean": {
+            "value": 0.3393743634223938,
+            "min": 0.3393743634223938,
+            "max": 0.9868137836456299,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-21.Obs2.elem0.sum": {
+            "value": 1.0181230902671814,
+            "min": 0.3393743634223938,
+            "max": 98.68137836456299,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-22.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-22.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-22.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-22.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-23.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-23.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-23.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-23.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-27.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-27.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-27.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.38,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-27.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 38.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-28.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-28.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-28.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-28.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-29.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-29.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-29.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.28,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-29.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 28.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-33.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-33.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-33.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-33.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-34.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-34.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-34.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-34.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-35.Obs1.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-35.Obs1.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-35.Obs2.elem0.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Debug.Agent.agent_0-35.Obs2.elem0.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 5
+        },
+        "HideAndSeekAgent.Environment.EpisodeLength.mean": {
+            "value": 99.0,
+            "min": 99.0,
+            "max": 99.0,
+            "count": 1
+        },
+        "HideAndSeekAgent.Environment.EpisodeLength.sum": {
+            "value": 3564.0,
+            "min": 3564.0,
+            "max": 3564.0,
+            "count": 1
+        },
+        "HideAndSeekAgent.Environment.TimeHidden.mean": {
+            "value": 0.036111110200484596,
+            "min": 0.036111110200484596,
+            "max": 0.036111110200484596,
+            "count": 1
+        },
+        "HideAndSeekAgent.Environment.TimeHidden.sum": {
+            "value": 0.4333333224058151,
+            "min": 0.4333333224058151,
+            "max": 0.4333333224058151,
+            "count": 1
+        },
+        "HideAndSeekAgent.Environment.HiderWinRatio.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 1
+        },
+        "HideAndSeekAgent.Environment.HiderWinRatio.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 1
+        },
+        "HideAndSeekAgent.Trajectories.AverageEpisodicReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 1
+        },
+        "HideAndSeekAgent.Trajectories.AverageEpisodicReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 1
+        },
+        "HideAndSeekAgent.Trajectories.TeamReward.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 1
+        },
+        "HideAndSeekAgent.Trajectories.TeamReward.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 0.0,
+            "count": 1
+        },
+        "HideAndSeekAgent.Step.mean": {
+            "value": 3500.0,
+            "min": 100.0,
+            "max": 3500.0,
+            "count": 35
+        },
+        "HideAndSeekAgent.Step.sum": {
+            "value": 3500.0,
+            "min": 100.0,
+            "max": 3500.0,
+            "count": 35
+        },
+        "HideAndSeekAgent.Policy.ExtrinsicValueEstimate.mean": {
+            "value": 0.8873576521873474,
+            "min": -0.8731022477149963,
+            "max": 1.2988923788070679,
+            "count": 35
+        },
+        "HideAndSeekAgent.Policy.ExtrinsicValueEstimate.sum": {
+            "value": 0.8873576521873474,
+            "min": -0.8731022477149963,
+            "max": 1.2988923788070679,
+            "count": 35
+        },
+        "HideAndSeekAgent.Environment.CumulativeReward.mean": {
+            "value": -0.6319999098777771,
+            "min": -1.2000000476837158,
+            "max": 1.192000150680542,
+            "count": 35
+        },
+        "HideAndSeekAgent.Environment.CumulativeReward.sum": {
+            "value": -0.6319999098777771,
+            "min": -1.2000000476837158,
+            "max": 1.192000150680542,
+            "count": 35
+        },
+        "HideAndSeekAgent.Policy.ExtrinsicReward.mean": {
+            "value": 1.3680000305175781,
+            "min": -3.192000150680542,
+            "max": 3.192000150680542,
+            "count": 35
+        },
+        "HideAndSeekAgent.Policy.ExtrinsicReward.sum": {
+            "value": 1.3680000305175781,
+            "min": -3.192000150680542,
+            "max": 3.192000150680542,
+            "count": 35
+        },
+        "HideAndSeekAgent.IsTraining.mean": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "count": 35
+        },
+        "HideAndSeekAgent.IsTraining.sum": {
+            "value": 0.0,
+            "min": 0.0,
+            "max": 1.0,
+            "count": 35
+        }
+    },
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1762775343",
+        "python_version": "3.10.8 | packaged by conda-forge | (main, Nov 24 2022, 14:07:00) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\BBBS-AI-01\\.conda\\envs\\py10\\Scripts\\mlagents-learn config/ppo_trainer.yaml --run-id=run15",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.6.0+cu124",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1762775375"
+    },
+    "total": 32.50071130000288,
+    "count": 1,
+    "self": 0.01687270001275465,
+    "children": {
+        "run_training.setup": {
+            "total": 0.09493690001545474,
+            "count": 1,
+            "self": 0.09493690001545474
+        },
+        "TrainerController.start_learning": {
+            "total": 32.38890169997467,
+            "count": 1,
+            "self": 0.030291599628981203,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 13.336161600018386,
+                    "count": 1,
+                    "self": 13.336161600018386
+                },
+                "TrainerController.advance": {
+                    "total": 18.83411610033363,
+                    "count": 108,
+                    "self": 0.002062100626062602,
+                    "children": {
+                        "env_step": {
+                            "total": 18.83205399970757,
+                            "count": 108,
+                            "self": 15.80302929924801,
+                            "children": {
+                                "SubprocessEnvManager._take_step": {
+                                    "total": 3.027147200482432,
+                                    "count": 108,
+                                    "self": 0.021154200949240476,
+                                    "children": {
+                                        "TorchPolicy.evaluate": {
+                                            "total": 3.0059929995331913,
+                                            "count": 214,
+                                            "self": 3.0059929995331913
+                                        }
+                                    }
+                                },
+                                "workers": {
+                                    "total": 0.0018774999771267176,
+                                    "count": 108,
+                                    "self": 0.0,
+                                    "children": {
+                                        "worker_root": {
+                                            "total": 22.778037199983373,
+                                            "count": 108,
+                                            "is_parallel": true,
+                                            "self": 8.175821499782614,
+                                            "children": {
+                                                "steps_from_proto": {
+                                                    "total": 0.005936700035817921,
+                                                    "count": 2,
+                                                    "is_parallel": true,
+                                                    "self": 0.001130199816543609,
+                                                    "children": {
+                                                        "_process_rank_one_or_two_observation": {
+                                                            "total": 0.004806500219274312,
+                                                            "count": 16,
+                                                            "is_parallel": true,
+                                                            "self": 0.004806500219274312
+                                                        }
+                                                    }
+                                                },
+                                                "UnityEnvironment.step": {
+                                                    "total": 14.596279000164941,
+                                                    "count": 108,
+                                                    "is_parallel": true,
+                                                    "self": 0.24927970115095377,
+                                                    "children": {
+                                                        "UnityEnvironment._generate_step_input": {
+                                                            "total": 0.07179379923036322,
+                                                            "count": 108,
+                                                            "is_parallel": true,
+                                                            "self": 0.07179379923036322
+                                                        },
+                                                        "communicator.exchange": {
+                                                            "total": 13.960208399686962,
+                                                            "count": 108,
+                                                            "is_parallel": true,
+                                                            "self": 13.960208399686962
+                                                        },
+                                                        "steps_from_proto": {
+                                                            "total": 0.3149971000966616,
+                                                            "count": 216,
+                                                            "is_parallel": true,
+                                                            "self": 0.052085199451539665,
+                                                            "children": {
+                                                                "_process_rank_one_or_two_observation": {
+                                                                    "total": 0.26291190064512193,
+                                                                    "count": 1728,
+                                                                    "is_parallel": true,
+                                                                    "self": 0.26291190064512193
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "trainer_threads": {
+                    "total": 8.430000161752105e-05,
+                    "count": 1,
+                    "self": 8.430000161752105e-05,
+                    "children": {
+                        "thread_root": {
+                            "total": 0.0,
+                            "count": 0,
+                            "is_parallel": true,
+                            "self": 0.0,
+                            "children": {
+                                "trainer_advance": {
+                                    "total": 18.86921419913415,
+                                    "count": 510,
+                                    "is_parallel": true,
+                                    "self": 0.022227598819881678,
+                                    "children": {
+                                        "process_trajectory": {
+                                            "total": 18.846986600314267,
+                                            "count": 510,
+                                            "is_parallel": true,
+                                            "self": 17.61299730016617,
+                                            "children": {
+                                                "RLTrainer._checkpoint": {
+                                                    "total": 1.233989300148096,
+                                                    "count": 7,
+                                                    "is_parallel": true,
+                                                    "self": 1.233989300148096
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "TrainerController._save_models": {
+                    "total": 0.18824809999205172,
+                    "count": 1,
+                    "self": 0.0021769999875687063,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.18607110000448301,
+                            "count": 1,
+                            "self": 0.18607110000448301
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

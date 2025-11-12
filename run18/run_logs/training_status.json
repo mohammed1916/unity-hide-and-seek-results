@@ -1,0 +1,56 @@
+{
+    "HideAndSeekAgent": {
+        "checkpoints": [
+            {
+                "steps": 400,
+                "file_path": "results\\run18\\HideAndSeekAgent\\HideAndSeekAgent-400.onnx",
+                "reward": -0.45600007846951485,
+                "creation_time": 1762777012.147434,
+                "auxillary_file_paths": [
+                    "results\\run18\\HideAndSeekAgent\\HideAndSeekAgent-400.pt"
+                ]
+            },
+            {
+                "steps": 900,
+                "file_path": "results\\run18\\HideAndSeekAgent\\HideAndSeekAgent-900.onnx",
+                "reward": -0.6435556262731552,
+                "creation_time": 1762777012.3327975,
+                "auxillary_file_paths": [
+                    "results\\run18\\HideAndSeekAgent\\HideAndSeekAgent-900.pt"
+                ]
+            },
+            {
+                "steps": 1400,
+                "file_path": "results\\run18\\HideAndSeekAgent\\HideAndSeekAgent-1400.onnx",
+                "reward": -0.4211429176586015,
+                "creation_time": 1762777012.5179503,
+                "auxillary_file_paths": [
+                    "results\\run18\\HideAndSeekAgent\\HideAndSeekAgent-1400.pt"
+                ]
+            },
+            {
+                "steps": 1800,
+                "file_path": "results\\run18\\HideAndSeekAgent\\HideAndSeekAgent-1800.onnx",
+                "reward": -0.3586667159365283,
+                "creation_time": 1762777012.696793,
+                "auxillary_file_paths": [
+                    "results\\run18\\HideAndSeekAgent\\HideAndSeekAgent-1800.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1800,
+            "file_path": "results\\run18\\HideAndSeekAgent.onnx",
+            "reward": -0.3586667159365283,
+            "creation_time": 1762777012.696793,
+            "auxillary_file_paths": [
+                "results\\run18\\HideAndSeekAgent\\HideAndSeekAgent-1800.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.6.0+cu124"
+    }
+}

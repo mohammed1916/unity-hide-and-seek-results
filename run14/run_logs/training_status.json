@@ -1,0 +1,65 @@
+{
+    "HideAndSeekAgent": {
+        "checkpoints": [
+            {
+                "steps": 1900,
+                "file_path": "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-1900.onnx",
+                "reward": 0.04631578255640833,
+                "creation_time": 1762775287.479629,
+                "auxillary_file_paths": [
+                    "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-1900.pt"
+                ]
+            },
+            {
+                "steps": 2400,
+                "file_path": "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-2400.onnx",
+                "reward": -0.15300002228468657,
+                "creation_time": 1762775287.8983052,
+                "auxillary_file_paths": [
+                    "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-2400.pt"
+                ]
+            },
+            {
+                "steps": 2900,
+                "file_path": "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-2900.onnx",
+                "reward": -0.10372415069362213,
+                "creation_time": 1762775288.2509382,
+                "auxillary_file_paths": [
+                    "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-2900.pt"
+                ]
+            },
+            {
+                "steps": 3400,
+                "file_path": "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-3400.onnx",
+                "reward": -0.11764706397319541,
+                "creation_time": 1762775288.7503796,
+                "auxillary_file_paths": [
+                    "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-3400.pt"
+                ]
+            },
+            {
+                "steps": 3600,
+                "file_path": "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-3600.onnx",
+                "reward": -0.132888896494276,
+                "creation_time": 1762775289.1769085,
+                "auxillary_file_paths": [
+                    "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-3600.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3600,
+            "file_path": "results\\run14\\HideAndSeekAgent.onnx",
+            "reward": -0.132888896494276,
+            "creation_time": 1762775289.1769085,
+            "auxillary_file_paths": [
+                "results\\run14\\HideAndSeekAgent\\HideAndSeekAgent-3600.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.6.0+cu124"
+    }
+}
