@@ -1,0 +1,361 @@
+{
+    "Hider1": {
+        "checkpoints": [
+            {
+                "steps": 23457,
+                "file_path": "results\\run41\\Hider1\\Hider1-23457.onnx",
+                "reward": -0.2871255183362436,
+                "creation_time": 1763021167.8908103,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider1\\Hider1-23457.pt"
+                ]
+            },
+            {
+                "steps": 23927,
+                "file_path": "results\\run41\\Hider1\\Hider1-23927.onnx",
+                "reward": -0.29352382263944793,
+                "creation_time": 1763021178.3320508,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider1\\Hider1-23927.pt"
+                ]
+            },
+            {
+                "steps": 24494,
+                "file_path": "results\\run41\\Hider1\\Hider1-24494.onnx",
+                "reward": -0.29246513017222225,
+                "creation_time": 1763021188.226517,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider1\\Hider1-24494.pt"
+                ]
+            },
+            {
+                "steps": 24969,
+                "file_path": "results\\run41\\Hider1\\Hider1-24969.onnx",
+                "reward": -0.28550571778491707,
+                "creation_time": 1763021197.798987,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider1\\Hider1-24969.pt"
+                ]
+            },
+            {
+                "steps": 25349,
+                "file_path": "results\\run41\\Hider1\\Hider1-25349.onnx",
+                "reward": -0.284434471043936,
+                "creation_time": 1763021201.934435,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider1\\Hider1-25349.pt"
+                ]
+            }
+        ],
+        "elo": 1025.9248030185752,
+        "final_checkpoint": {
+            "steps": 25349,
+            "file_path": "results\\run41\\Hider1.onnx",
+            "reward": -0.284434471043936,
+            "creation_time": 1763021201.934435,
+            "auxillary_file_paths": [
+                "results\\run41\\Hider1\\Hider1-25349.pt"
+            ]
+        }
+    },
+    "Seeker1": {
+        "checkpoints": [
+            {
+                "steps": 28427,
+                "file_path": "results\\run41\\Seeker1\\Seeker1-28427.onnx",
+                "reward": 0.055681066290534216,
+                "creation_time": 1763021162.6650352,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker1\\Seeker1-28427.pt"
+                ]
+            },
+            {
+                "steps": 28999,
+                "file_path": "results\\run41\\Seeker1\\Seeker1-28999.onnx",
+                "reward": 0.04805212048662019,
+                "creation_time": 1763021173.527404,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker1\\Seeker1-28999.pt"
+                ]
+            },
+            {
+                "steps": 29474,
+                "file_path": "results\\run41\\Seeker1\\Seeker1-29474.onnx",
+                "reward": 0.05310256698598655,
+                "creation_time": 1763021182.996588,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker1\\Seeker1-29474.pt"
+                ]
+            },
+            {
+                "steps": 29947,
+                "file_path": "results\\run41\\Seeker1\\Seeker1-29947.onnx",
+                "reward": 0.06324290628148366,
+                "creation_time": 1763021192.6958916,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker1\\Seeker1-29947.pt"
+                ]
+            },
+            {
+                "steps": 30323,
+                "file_path": "results\\run41\\Seeker1\\Seeker1-30323.onnx",
+                "reward": 0.05976324392093862,
+                "creation_time": 1763021202.0877066,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker1\\Seeker1-30323.pt"
+                ]
+            }
+        ],
+        "elo": 1381.521461668248,
+        "final_checkpoint": {
+            "steps": 30323,
+            "file_path": "results\\run41\\Seeker1.onnx",
+            "reward": 0.05976324392093862,
+            "creation_time": 1763021202.0877066,
+            "auxillary_file_paths": [
+                "results\\run41\\Seeker1\\Seeker1-30323.pt"
+            ]
+        }
+    },
+    "Hider0": {
+        "checkpoints": [
+            {
+                "steps": 25444,
+                "file_path": "results\\run41\\Hider0\\Hider0-25444.onnx",
+                "reward": -0.18352239294005418,
+                "creation_time": 1763021168.0668645,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider0\\Hider0-25444.pt"
+                ]
+            },
+            {
+                "steps": 25914,
+                "file_path": "results\\run41\\Hider0\\Hider0-25914.onnx",
+                "reward": -0.1884249133695831,
+                "creation_time": 1763021178.1620116,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider0\\Hider0-25914.pt"
+                ]
+            },
+            {
+                "steps": 26481,
+                "file_path": "results\\run41\\Hider0\\Hider0-26481.onnx",
+                "reward": -0.1823942707617864,
+                "creation_time": 1763021188.0018327,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider0\\Hider0-26481.pt"
+                ]
+            },
+            {
+                "steps": 26956,
+                "file_path": "results\\run41\\Hider0\\Hider0-26956.onnx",
+                "reward": -0.1817746531139587,
+                "creation_time": 1763021197.6289902,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider0\\Hider0-26956.pt"
+                ]
+            },
+            {
+                "steps": 27336,
+                "file_path": "results\\run41\\Hider0\\Hider0-27336.onnx",
+                "reward": -0.18302778313712528,
+                "creation_time": 1763021202.282042,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider0\\Hider0-27336.pt"
+                ]
+            }
+        ],
+        "elo": 1112.1558416177209,
+        "final_checkpoint": {
+            "steps": 27336,
+            "file_path": "results\\run41\\Hider0.onnx",
+            "reward": -0.18302778313712528,
+            "creation_time": 1763021202.282042,
+            "auxillary_file_paths": [
+                "results\\run41\\Hider0\\Hider0-27336.pt"
+            ]
+        }
+    },
+    "Seeker0": {
+        "checkpoints": [
+            {
+                "steps": 29449,
+                "file_path": "results\\run41\\Seeker0\\Seeker0-29449.onnx",
+                "reward": 0.15033333163517407,
+                "creation_time": 1763021162.9469986,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker0\\Seeker0-29449.pt"
+                ]
+            },
+            {
+                "steps": 29925,
+                "file_path": "results\\run41\\Seeker0\\Seeker0-29925.onnx",
+                "reward": 0.15316088159189614,
+                "creation_time": 1763021173.3630047,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker0\\Seeker0-29925.pt"
+                ]
+            },
+            {
+                "steps": 30495,
+                "file_path": "results\\run41\\Seeker0\\Seeker0-30495.onnx",
+                "reward": 0.14806191743158334,
+                "creation_time": 1763021183.1881392,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker0\\Seeker0-30495.pt"
+                ]
+            },
+            {
+                "steps": 30967,
+                "file_path": "results\\run41\\Seeker0\\Seeker0-30967.onnx",
+                "reward": 0.15058536405061804,
+                "creation_time": 1763021192.8859165,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker0\\Seeker0-30967.pt"
+                ]
+            },
+            {
+                "steps": 31249,
+                "file_path": "results\\run41\\Seeker0\\Seeker0-31249.onnx",
+                "reward": 0.14762537613556104,
+                "creation_time": 1763021202.4359517,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker0\\Seeker0-31249.pt"
+                ]
+            }
+        ],
+        "elo": 1301.228484075009,
+        "final_checkpoint": {
+            "steps": 31249,
+            "file_path": "results\\run41\\Seeker0.onnx",
+            "reward": 0.14762537613556104,
+            "creation_time": 1763021202.4359517,
+            "auxillary_file_paths": [
+                "results\\run41\\Seeker0\\Seeker0-31249.pt"
+            ]
+        }
+    },
+    "Seeker2": {
+        "checkpoints": [
+            {
+                "steps": 26430,
+                "file_path": "results\\run41\\Seeker2\\Seeker2-26430.onnx",
+                "reward": 0.15991428724456844,
+                "creation_time": 1763021162.4450984,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker2\\Seeker2-26430.pt"
+                ]
+            },
+            {
+                "steps": 26908,
+                "file_path": "results\\run41\\Seeker2\\Seeker2-26908.onnx",
+                "reward": 0.16213333560807403,
+                "creation_time": 1763021173.1008234,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker2\\Seeker2-26908.pt"
+                ]
+            },
+            {
+                "steps": 27478,
+                "file_path": "results\\run41\\Seeker2\\Seeker2-27478.onnx",
+                "reward": 0.1553264629348626,
+                "creation_time": 1763021182.763167,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker2\\Seeker2-27478.pt"
+                ]
+            },
+            {
+                "steps": 27952,
+                "file_path": "results\\run41\\Seeker2\\Seeker2-27952.onnx",
+                "reward": 0.16243243442590324,
+                "creation_time": 1763021192.4561634,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker2\\Seeker2-27952.pt"
+                ]
+            },
+            {
+                "steps": 28422,
+                "file_path": "results\\run41\\Seeker2\\Seeker2-28422.onnx",
+                "reward": 0.16132890548018672,
+                "creation_time": 1763021202.58153,
+                "auxillary_file_paths": [
+                    "results\\run41\\Seeker2\\Seeker2-28422.pt"
+                ]
+            }
+        ],
+        "elo": 1293.6172243766807,
+        "final_checkpoint": {
+            "steps": 28422,
+            "file_path": "results\\run41\\Seeker2.onnx",
+            "reward": 0.16132890548018672,
+            "creation_time": 1763021202.58153,
+            "auxillary_file_paths": [
+                "results\\run41\\Seeker2\\Seeker2-28422.pt"
+            ]
+        }
+    },
+    "Hider2": {
+        "checkpoints": [
+            {
+                "steps": 21931,
+                "file_path": "results\\run41\\Hider2\\Hider2-21931.onnx",
+                "reward": -0.20318615369022988,
+                "creation_time": 1763021167.660903,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider2\\Hider2-21931.pt"
+                ]
+            },
+            {
+                "steps": 22495,
+                "file_path": "results\\run41\\Hider2\\Hider2-22495.onnx",
+                "reward": -0.1962531713576288,
+                "creation_time": 1763021177.9711246,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider2\\Hider2-22495.pt"
+                ]
+            },
+            {
+                "steps": 22967,
+                "file_path": "results\\run41\\Hider2\\Hider2-22967.onnx",
+                "reward": -0.19282645359827774,
+                "creation_time": 1763021187.7362018,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider2\\Hider2-22967.pt"
+                ]
+            },
+            {
+                "steps": 23442,
+                "file_path": "results\\run41\\Hider2\\Hider2-23442.onnx",
+                "reward": -0.19054251840066633,
+                "creation_time": 1763021197.4756718,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider2\\Hider2-23442.pt"
+                ]
+            },
+            {
+                "steps": 23917,
+                "file_path": "results\\run41\\Hider2\\Hider2-23917.onnx",
+                "reward": -0.1935238172688211,
+                "creation_time": 1763021202.7294579,
+                "auxillary_file_paths": [
+                    "results\\run41\\Hider2\\Hider2-23917.pt"
+                ]
+            }
+        ],
+        "elo": 1122.6033842754923,
+        "final_checkpoint": {
+            "steps": 23917,
+            "file_path": "results\\run41\\Hider2.onnx",
+            "reward": -0.1935238172688211,
+            "creation_time": 1763021202.7294579,
+            "auxillary_file_paths": [
+                "results\\run41\\Hider2\\Hider2-23917.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.6.0+cu124"
+    }
+}
